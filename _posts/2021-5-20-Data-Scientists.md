@@ -7,10 +7,7 @@ Data Science is a broad area that encompasses many fields, requires various skil
 
 Once the solution has been designed and the models fit, that process must be implemented into the business process. How companies have preferred to do this recently has been to build large-scale software programs with a user interface for the non-technical user of the product. These programs are often novel, take years to develop, cost milions of dollars and need constant updating as business processes change how the output is used.
 
-In order to do the work described above, data scientists must have a strong background in:
--Statistics
--Mathematics
--Programming
+In order to do the work described above, data scientists must have a strong background in Statistics, Mathematics and Programming.
 
 Statistics is crucial because the data scientist must be able to utilize statistical analysis to describe what is going on with the data, discover relationships between variables in the data and make inferences about the business problem while stating the degree of uncertainty associated with the resulting estimates. Often the business problem requires a solution that is not appropriately solved by an "out-of-the-box" statistical procedure, so it is useful for data scientists to be well-versed in statistical modeling such that they can create customized solutions to business problems. It is here that mathematics can be helpful for modeling the business problem prior to using statistical analysis to estimate and make inferences.
 
