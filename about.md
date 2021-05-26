@@ -12,6 +12,4 @@ I am interested in time series statistics, longitudinal data analysis. Most of m
 
 ### Contact me
 
-pelung@ncsu.edu
-
-[email@domain.com](mailto:email@domain.com)
+[pelung@ncsu.edu](mailto:pelung@ncsu.edu)
