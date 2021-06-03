@@ -1,3 +1,9 @@
+---
+layout: post
+title: What is Data Science?
+---
+
+
 In the past I have worked in both SAS and Python, so R is a new language for me. R is interesting for a number of reasons, particularly because of the functionality of R Markdown capabilities. 
 
 I've never thought of using a programming language to make slides or documents. It always seemed easier to use the Microsoft suite and just copy and paste graphs and tables into PowerPoint or Word, perhaps then converting the file to a pdf. It's not that I think the Microsoft products are unprofessional - I think I've made some pretty good stuff with it over the years - it's that the look and feel is a little... immature. R markdown makes files *feel* like they were produced by somebody who knows what they are doing as opposed to someone working on their high school history final. The tables look professional, the type font looks more classy (albeit a little boring) and the graphs look like they were generated professionally.
