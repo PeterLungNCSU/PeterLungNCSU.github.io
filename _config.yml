@@ -9,7 +9,7 @@ name: Peter Lung
 description: Statistics Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/PeterLungNCSU/PeterLungNCSU/master/images/Mickey_Mouse.jpg
+avatar: https://raw.githubusercontent.com/PeterLungNCSU/PeterLungNCSU.github.io/master/images/Mickey_Mouse.jpg
 
 #
 # Flags below are optional
@@ -25,11 +25,11 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: 
   twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  stackoverflow: 
+  youtube: 
+  googleplus: 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
