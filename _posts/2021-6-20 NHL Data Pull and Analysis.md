@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on R
+title: NHL Data Pull and Analysis
 ---
 
 I had a good time and learned a lot while doing the hockey analysis I have been working on for ST 558. This was my first time working with an API and although I'm a sports fan, I've never been much into hockey, so I was able to learn a little about the sport. I'm a huge data junkie so it was fun diving into the data once I got the chance. I ended up doing a couple of "extra" things that weren't required by the project just because I was having fun doing analysis.
