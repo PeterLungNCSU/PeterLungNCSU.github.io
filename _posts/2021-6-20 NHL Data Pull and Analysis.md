@@ -15,3 +15,4 @@ This data was super fun to work with, but the process wasn't without some diffic
 
 If I were to do this project over, I would make sure I am coding everything neatly (I get sloppy when I'm just trying to figure out how to get something to run) the first time through instead of changing everything at the end. Hopefully you enjoy my analysis as much as I enjoyed doing it!
 
+You can see the results of the project here. [https://peterlungncsu.github.io/NHL/]
