@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bike Sharing Data Pull and Analysis
+title: Bike Sharing Data Analysis
 ---
 
 
