@@ -3,7 +3,6 @@ layout: post
 title: Bike Sharing Data Pull and Analysis
 ---
 
-# Bike Sharing Project
 
 I just finished my part of the bike sharing data project. I say my part because it was a group project. I am going out of town this weekend when it's due, so I asked my partner, Caroline Baker, to publish it once it is complete.
 
